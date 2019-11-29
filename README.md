@@ -5,4 +5,5 @@ Builed Using expo.
 To install: 
   
   npm install
+  
   npm start
